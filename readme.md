@@ -7,9 +7,9 @@ It's available since 2013/12/07, and was created by [hustcer](https://github.com
 
 > --By Peter Lynch, Renowned Investor, Author of One Up on Wall Street
 
-It isn't a coincidence that corporate executives seem to always buy and sell at the right times. After all, the CEOs and CFOs of the world have access to every bit of company information you could ever want. However, this doesn't mean individual investors are left in the dark. Insider trading data is out there for all who want to use it ...
+It isn't a coincidence that corporate executives seem to always buy and sell at the right times. After all, the CEOs and CFOs of the world have access to every bit of company information you could ever want. However, this doesn't mean individual investors are left in the dark. Insider trading data is out there for all who want to use it. And that's why [TraceInvest.com](https://traceinvest.com) was created.
 
 Want to report a bug, request a feature, or help us make it better? Feel free to open an issue [here](https://github.com/hustcer/insider/issues/new), Thanks.
 
-[TraceInvest.com](https://traceinvest.com) 主要提供美股内部交易查询、分析服务。如果您有什么建议或者发现BUG可以在此反馈，谢谢。
+[TraceInvest.com](https://traceinvest.com) 主要提供美股内部交易查询、分析服务。如果您有什么建议或者发现BUG可以[在此](https://github.com/hustcer/insider/issues/new)反馈，谢谢。
 
