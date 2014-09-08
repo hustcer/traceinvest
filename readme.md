@@ -12,5 +12,7 @@ It isn't a coincidence that corporate executives seem to always buy and sell at 
 
 Want to report a bug, request a feature, or help us make it better? Feel free to open an issue [here](https://github.com/hustcer/traceinvest.com/issues/new), Thanks.
 
-[TraceInvest.com](https://traceinvest.com) 主要提供美股内部交易查询、分析服务。如果您有什么建议或者发现BUG可以[在此](https://github.com/hustcer/traceinvest.com/issues/new)反馈，谢谢。
+-----
+
+[TraceInvest.com](https://traceinvest.com) 主要提供美股内部交易信息查询、分析服务，目前试运营阶段所有功能免费使用。如果您有什么建议或者发现BUG可以[在此](https://github.com/hustcer/traceinvest.com/issues/new)反馈，谢谢。
 
