@@ -1,0 +1,87 @@
+{
+    "404": {
+        "_title"   : "Not Found",
+        "_content" : "Sorry, The Page You Request Does Not Exist or Has Been Moved. You Can Go Back to <a href='/'>Homepage</a>"
+    },
+    "500": {
+        "_title"   : "Internal Server Error",
+        "_content" : "Sorry, An Internal Server Error Occured, Please Try Again Later or <a href='/contact'>Contact</a> the Administrator."
+    },
+    "509": {
+        "_title"   : "Bandwidth Limit Exceeded",
+        "_content" : "Sorry, The Bandwidth Limit Exceeded, or You Have Exceeded TraceInvest's Daily Usage Quota Per User. Please <a href='/contact'>Contact</a> Us for More Support, or Try Again After 24 Hours."
+    },
+    "me":{
+        "_tip"       : "View and Manage My Personal Infomation",
+        "_name"      : "Name",
+        "_firstname" : "First Name",
+        "_lastname"  : "Last Name",
+        "_username"  : "Username",
+        "_birthday"  : "Birthday",
+        "_month"     : "Month",
+        "_day"       : "Day",
+        "_year"      : "Year"
+    },
+    "star":{
+        "_tip" : "View and Manage My Stock Watch List"
+    },
+    "passwd":{
+        "_tip"        : "Modify My Password",
+        "_old_passwd" : "Old Password",
+        "_new_passwd" : "New Password",
+        "_repasswd"   : "Re-enter Password"
+    },
+    "sign":{
+        "_title"      : "Sign In",
+        "_username"   : "Username",
+        "_password"   : "Password",
+        "_repassword" : "Re-enter Password",
+        "_email"      : "Email",
+        "_gender"     : "Gender",
+        "_male"       : "Male",
+        "_female"     : "Female",
+        "_signin"     : "Sign In",
+        "_signup"     : "Sign Up",
+        "_t_email_exist"   : "Email already exists, please change another one.",
+        "_t_uname_exist"   : "Username already exists, please change another one.",
+        "_t_uname_unexist" : "Username does not exist, please check again.",
+        "_t_email_unexist" : "Email does not exist, please check again.",
+        "_t_name_pass_err" : "Username or password don't match, please try again."
+    },
+    "donation":{
+        "_tips"   : "I will be much more appreciate if you want to donate me.",
+        "_alipay" : "Donate me through <em>Alipay</em>",
+        "_paypal" : "Donate me through <em>PayPal</em>"
+    },
+    "contact":{
+        "_email" : "Want to report a bug, request a feature, or have an interest in our data service ? <br/>Feel free to leave us a message here, create a <a href='https://github.com/hustcer/traceinvest.com/issues/new' target='_blank'>github issue</a> or contact us through this email :  <em>support(at)traceinvest.com</em>",
+        "_tip"   : "Notice: Replace '(at)' with '@', Thanks.",
+        "_github": "Add github issue link here"
+    },
+    "about":{
+        "_ctnt" : "<p><em>Since 12/07/2013.</em></p><p>There is nothing to say yet... But I will be much more appreciate if you want to <a class='RED' target='_self' href='/donate'>donate me.</a></p>"
+    },
+    "index":{
+        "_guru_sk" : {
+            "_name"   : "Seth Klarman",
+            "_intro"  : "- Seth Klarman, Author of <em><strong>Margin of Safety</strong></em>",
+            "_quotes" : "“It is often said on Wall St that there are many reasons why an insider might sell a stock (need for cash to pay taxes; expenses etc), but there is only one reason for buying.”"
+        },
+        "_guru_ns" : {
+            "_name"   : "H. Nejat Seyhun",
+            "_intro"  : "- H. Nejat Seyhun, Author of <em><strong>Investment Intelligence From Insider Trading</strong></em>",
+            "_quotes" : "“When executives bought shares in their own companies, the stock tended to outperform the market by 8.9% over the next 12 months.”"
+        },
+        "_guru_pl" : {
+            "_name"   : "Peter Lynch",
+            "_intro"  : "- Peter Lynch, Renowned Investor, Author of <em><strong>One Up on Wall Street</strong></em>",
+            "_quotes" : "“Insiders might sell their shares for any number of reasons, but they buy them for only one: they think the price will rise.”"
+        },
+        "_t_insider" : "What's Insider ?",
+        "_t_eyeon"   : "Keep an Eye on The Insiders",
+        "_t_trading" : "What's Insider Trading?",
+        "_d_insider" : "The Securities and Exchange Commission (SEC) considers insiders to be company directors, officials or any individual with a stake of 10% or more in the company. Insiders are required to report their insider transactions within two business days of the date the transaction occurred (before the 2002 Sarbanes-Oxley Act it used to be the 10th day of the following month).",
+        "_d_eyeon"   : "It isn't a coincidence that corporate executives seem to always buy and sell at the right times. After all, the CEOs and CFOs of the world have access to every bit of company information you could ever want. However, this doesn't mean individual investors are left in the dark. Insider trading data is out there for all who want to use it ...",
+        "_d_trading" : "There are two types of insider trading: legal and illegal. Illegal insider trading is the buying or selling of a security by insiders who possess material that is still not public. However, Insiders can legally buy and sell stock in their own company once the material information has been made public, at which time the insider has no direct advantage over other investors. The SEC, however, still requires all insiders to report all their transactions. And all the insider tradings listed here on this site are public and legal, you can check the trading infomation from the <em>'View Form'</em> link."
+    }
+}
