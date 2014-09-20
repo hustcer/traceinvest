@@ -1,5 +1,5 @@
 
-### Donate me through **[Gratipay](https://gratipay.com/hustcer/)**  <img height="26px" src="https://raw.githubusercontent.com/gratipay/gratipay.com/master/www/assets/%25version/gratipay.opengraph.png" style="max-width:100%;">
+### [Gratipay<img height="26px" src="https://raw.githubusercontent.com/gratipay/gratipay.com/master/www/assets/%25version/gratipay.opengraph.png" style="max-width:100%;">](https://gratipay.com/hustcer/)
 
 ## TraceInvest.com
 
