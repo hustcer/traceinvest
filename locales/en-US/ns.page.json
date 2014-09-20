@@ -51,6 +51,7 @@
     "donation":{
         "_tips"   : "I will be much more appreciate if you want to donate me.",
         "_alipay" : "Donate me through <em>Alipay</em>",
+        "_alipay_tip" : "Please scan to donate, thanks!",
         "_paypal" : "Donate me through <em>PayPal</em>"
     },
     "contact":{
