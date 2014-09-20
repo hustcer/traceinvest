@@ -1,5 +1,5 @@
 
-<script data-gratipay-username="hustcer" data-gratipay-widget="button" src="//gttp.co/v1.js"></script>
+Donate me through[Gratipay](https://gratipay.com/hustcer/)
 
 ## TraceInvest.com
 
