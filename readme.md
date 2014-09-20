@@ -1,4 +1,6 @@
 
+<script data-gratipay-username="hustcer" data-gratipay-widget="button" src="//gttp.co/v1.js"></script>
+
 ## TraceInvest.com
 
 [TraceInvest.com](https://traceinvest.com), mainly provides US stock insider trading query and analysis services, is powered by NodeJS and Mongodb.

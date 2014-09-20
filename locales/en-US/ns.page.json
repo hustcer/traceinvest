@@ -49,10 +49,11 @@
         "_t_name_pass_err" : "Username or password don't match, please try again."
     },
     "donation":{
-        "_tips"   : "I will be much more appreciate if you want to donate me.",
-        "_alipay" : "Donate me through <em>Alipay</em>",
+        "_tips"       : "I will be much more appreciate if you want to donate me.",
+        "_gratipay"   : "Donate me through <em>Gratipay</em>",
+        "_alipay"     : "Donate me through <em>Alipay</em>",
         "_alipay_tip" : "Please scan to donate, thanks!",
-        "_paypal" : "Donate me through <em>PayPal</em>"
+        "_paypal"     : "Donate me through <em>PayPal</em>"
     },
     "contact":{
         "_email" : "Want to report a bug, request a feature, or have an interest in our data service ? <br/>Feel free to leave us a message here, create a <a href='https://github.com/hustcer/traceinvest.com/issues/new' target='_blank'>github issue</a> or contact us through this email :  <em>support(at)traceinvest.com</em>",

@@ -49,10 +49,11 @@
         "_t_name_pass_err" : "用户名和密码不匹配请重试."
     },
     "donation":{
-        "_tips"   : "啊，您实在是太慷慨了，感谢您的支持，我们会继续努力提供更好的服务，谢谢。",
-        "_alipay" : "通过<em>支付宝</em>赞助下",
+        "_tips"       : "啊，您实在是太慷慨了，感谢您的支持，我们会继续努力提供更好的服务，谢谢。",
+        "_gratipay"   : "通过<em>Gratipay</em>赞助下",
+        "_alipay"     : "通过<em>支付宝</em>赞助下",
         "_alipay_tip" : "请扫码完成支付，辛苦您了：",
-        "_paypal" : "通过<em>PayPal</em>赞助下"
+        "_paypal"     : "通过<em>PayPal</em>赞助下"
     },
     "contact":{
         "_email" : "如果您遇到任何使用问题、需要新功能或者对我们的数据服务感兴趣，欢迎在此留言、创建<a href='https://github.com/hustcer/traceinvest.com/issues/new' target='_blank'>GitHub Issue</a>或者通过电子邮件联系我们 :  <em>support(at)traceinvest.com</em>",
