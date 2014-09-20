@@ -1,5 +1,5 @@
 
-### [Gratipay<img height="26px" src="https://raw.githubusercontent.com/gratipay/gratipay.com/master/www/assets/%25version/gratipay.opengraph.png" style="max-width:100%;">](https://gratipay.com/hustcer/)
+### [Gratipay<img height="25px" src="https://raw.githubusercontent.com/gratipay/gratipay.com/master/www/assets/%25version/gratipay.opengraph.png" style="max-width:100%;margin:0 0 -4px 5px;">](https://gratipay.com/hustcer/)
 
 ## TraceInvest.com
 
