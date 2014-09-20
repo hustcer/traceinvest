@@ -1,5 +1,5 @@
 
-Donate me through[Gratipay](https://gratipay.com/hustcer/)
+Donate me through **[Gratipay](https://gratipay.com/hustcer/)**
 
 ## TraceInvest.com
 
